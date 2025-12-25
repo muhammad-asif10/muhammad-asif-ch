@@ -159,7 +159,7 @@
 
 <p align="center">
   <!-- Top Languages -->
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaasif10&langs_count=8&layout=compact&theme=tokyonight)]/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaasif10&langs_count=8&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
