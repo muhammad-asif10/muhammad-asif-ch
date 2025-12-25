@@ -142,7 +142,7 @@
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=muhammad-asif10&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asif10&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+    <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=default)](https://git.io/streak-stats)"/>
   </p>
 
   <p align="center">
