@@ -11,7 +11,6 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 **BS Computer Science** student
 * 📊 Focused on **Data Science, Machine Learning & AI**
 * 🐍 Strong in **Python**, learning ML & analytics tools
 * 💼 Actively seeking **remote internships** (Data Science / AI)
