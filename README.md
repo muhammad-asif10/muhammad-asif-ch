@@ -19,7 +19,7 @@
 * 📊 Focused on **Data Science, Machine Learning & AI**
 * 🐍 Strong in **Python**, learning ML & analytics tools
 * 💼 Actively seeking **remote internships** (Data Science / AI)
-* ✍️ Blogging at **[https://dev.to/muhammadasif](https://dev.to/muhammadasif)**
+* ✍️ Blogging at **[DEV](https://dev.to/muhammadasif)**
 * 📫 **[MuhammadAsif00@proton.me](mailto:MuhammadAsif00@proton.me)**
 
 ---
@@ -93,7 +93,7 @@
 <p align="center">
   <!-- W3Schools -->
   <a href="https://www.w3schools.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/w3schools.svg" alt="W3Schools" width="50" height="50"/>
+    <img src="https://img.icons8.com/color/48/000000/w3schools.png" alt="W3Schools" width="50" height="50"/>
   </a>
 
   <!-- GeeksforGeeks -->
@@ -142,24 +142,22 @@
   </a>
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<!--  GitHub Activity Section -->
+<h3 align="center">📊 GitHub Activity Dashboard</h3>
 
 <p align="center">
-  <!-- Overall Activity Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-asif10&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-
-  <!-- Commit Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asif10&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <!-- Contribution Heatmap -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-asif10&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaasif10&langs_count=8&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/muhammad-asif10" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammad-asif10&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" width="300"/>
+  </a>
+  <a href="https://github.com/muhammad-asif10" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asif10&theme=tokyonight" alt="GitHub Streak" width="300"/>
+  </a>
+  <a href="https://github.com/muhammad-asif10" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-asif10&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph" width="300"/>
+  </a>
+  <a href="https://github.com/muhammad-asif10" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-asif10&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" width="300"/>
+  </a>
 </p>
 
 ---
