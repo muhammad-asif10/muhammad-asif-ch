@@ -87,6 +87,61 @@
 * 🤖 Deep Learning fundamentals
 
 ---
+<!-- Learning Platforms Section -->
+<h3 align="center">🌐 My Favorite Learning Platforms</h3>
+
+<p align="center">
+  <!-- W3Schools -->
+  <a href="https://www.w3schools.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/w3schools.png" alt="W3Schools" width="50" height="50"/>
+  </a>
+
+  <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" alt="GeeksforGeeks" width="50" height="50"/>
+  </a>
+
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/kaggle.png" alt="Kaggle" width="50" height="50"/>
+  </a>
+
+  <!-- Stack Overflow -->
+  <a href="https://stackoverflow.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" width="50" height="50"/>
+  </a>
+
+  <!-- Medium -->
+  <a href="https://medium.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium" width="50" height="50"/>
+  </a>
+
+  <!-- Coursera -->
+  <a href="https://www.coursera.org" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/coursera.png" alt="Coursera" width="50" height="50"/>
+  </a>
+
+  <!-- edX -->
+  <a href="https://www.edx.org" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/edx.png" alt="edX" width="50" height="50"/>
+  </a>
+
+  <!-- FreeCodeCamp -->
+  <a href="https://www.freecodecamp.org" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/free-code-camp.png" alt="FreeCodeCamp" width="50" height="50"/>
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/hackerrank.png" alt="HackerRank" width="50" height="50"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" width="50" height="50"/>
+  </a>
+</p>
+
 
 <h3 align="center">📊 GitHub Stats</h3>
 
