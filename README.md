@@ -56,7 +56,7 @@
   <!-- BI -->
 
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
-   <img src="https://img.icons8.com/color/48/Excel.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/ms-excel.png" width="40"/>
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="40"/>
 
   <!-- Tools -->
