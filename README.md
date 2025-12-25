@@ -87,7 +87,6 @@
 ## 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asif10&theme=tokyonight" height="150"/>
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" height="150"/>
 </p>
 
 ---
