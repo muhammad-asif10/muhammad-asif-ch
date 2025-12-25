@@ -103,10 +103,24 @@
 
 ---
 
-## 📊 GitHub Activity
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="(https://activity-graph.herokuapp.com/graph?username=muhammad-asif10&theme=github" height="150"/>
+  <!-- Overall Activity Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-asif10&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+
+  <!-- Commit Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asif10&theme=tokyonight" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <!-- Contribution Heatmap -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-asif10&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-asif10&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/muhammad-asif10/github-readme-stats)
 </p>
 
 ---
