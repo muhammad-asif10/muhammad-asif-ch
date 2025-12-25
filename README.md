@@ -25,7 +25,7 @@
 
 <p align="center">
   Listen to my featured song:  
-  <a href="https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp" target="_blank">🎧 Click Here to Play</a>
+  <a href="https://open.spotify.com/album/1mmirvXpu8QBMnMAtugfat" target="_blank">🎧 Click Here to Play</a>
 </p>
 
 
