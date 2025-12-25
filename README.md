@@ -141,7 +141,7 @@
   <h2>📊 GitHub Analytics</h2>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=muhammad-asif10&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)"/>
     <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=default)](https://git.io/streak-stats)"/>
   </p>
 
