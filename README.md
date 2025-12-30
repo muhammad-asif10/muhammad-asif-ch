@@ -40,6 +40,11 @@
 🔗 **Repository:**
 👉 [TTS](https://github.com/muhammad-asif10/text_to_speech_app)
 
+## 🚀 Live Demo
+
+[![Live on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://text-to-speech-v1.streamlit.app/)
+
+
 ---
 
 ## 🧰 Skills & Tools
