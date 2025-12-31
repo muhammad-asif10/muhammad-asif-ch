@@ -47,15 +47,10 @@
 ### 📄 PDF to Word Converter App
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"> <img src="https://img.shields.io/badge/Cloud-Ready-4CAF50?style=for-the-badge&logo=cloud&logoColor=white"> </p> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=800&color=FF4B4B&width=435&lines=PDF+to+Editable+Word+Converter;Streamlit+Cloud+Deployed;Python+Automation+Project" />
 
-Converts PDF files into editable Word documents
-
-Built with Python & Streamlit
-
-Cloud-ready and optimized for deployment
-
-Clean UI with instant download support
-
-Ideal for students, offices & freelancers
+* Converts PDF files into editable Word documents
+* Built with Python & Streamlit
+* Cloud-ready and optimized for deployment
+* Clean UI with instant download support
 
 🔗 Repository:
 [👉 PDF to Word Converter](https://github.com/muhammad-asif10/pdf_to_docx-converter-app)
