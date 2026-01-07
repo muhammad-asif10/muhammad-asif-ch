@@ -17,7 +17,7 @@
 </p>
 
 
-## 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 * 📊 Focused on **Data Science, Machine Learning & AI**
 * 🐍 Strong in **Python**, learning ML & analytics tools
