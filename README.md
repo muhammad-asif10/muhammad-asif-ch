@@ -44,9 +44,9 @@ Turning ideas into code and making computers do the heavy lifting. Every day, I 
 
 <h4>Current Projects</h4>
 
+- 💽 **[Scrapi](https://github.com/muhammad-asif10/Scrapi)** - An intelligent web scraper built in your CLI.
 - 🤖 **[RAG System](https://github.com/muhammad-asif10/simple-rag)** - A RAG pipeline using Gemini, Chroma and transformers.
 - 🗞️ **[News Scraper Pipeline](https://github.com/muhammad-asif10/News_Scraper_Pipeline)** - An end to end scraping pipeline for dawn.com news and store into mongoDB atlas.
-- 💽 **[Scrapi](https://github.com/muhammad-asif10/Scrapi)** - An intelligent web scraper built in your CLI.
 - 🛍️ **[Customer Churn System](https://github.com/muhammad-asif10/Customer_Churn_Prediction_Model)** - An implementation of Customer Churn ML model in Sklearn.
 - 🤖 **[ShopAssist](https://github.com/muhammad-asif10/Shop_Assist)** - An AI powered ECommerce Assistant.
 - 🌐 **[Glotext](https://github.com/PublicKernel/Glotext)** - A Python module that translates your document from one language to another in the terminal.
